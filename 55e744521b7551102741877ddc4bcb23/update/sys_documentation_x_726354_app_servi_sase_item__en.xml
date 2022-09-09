@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="SASE Item" language="en" table="x_726354_app_servi_sase_item">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>SASE Item</label>
+            <language>en</language>
+            <name>x_726354_app_servi_sase_item</name>
+            <plural>SASE Items</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-09 17:01:48</sys_created_on>
+            <sys_id>eee4501e1bb551102741877ddc4bcb1a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>SASE Item</sys_name>
+            <sys_package display_value="app-servicenow-sase" source="x_726354_app_servi">55e744521b7551102741877ddc4bcb23</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="app-servicenow-sase">55e744521b7551102741877ddc4bcb23</sys_scope>
+            <sys_update_name>sys_documentation_x_726354_app_servi_sase_item__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-09 17:01:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

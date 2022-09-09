@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_726354_app_servi.sase_role" name="x_726354_app_servi.sase_role">b78250561bb551102741877ddc4bcb2e</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-09 16:51:31</sys_created_on>
+        <sys_id>b382dc5a1bb551102741877ddc4bcbc1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b78250561bb551102741877ddc4bcb2e</sys_name>
+        <sys_package display_value="app-servicenow-sase" source="x_726354_app_servi">55e744521b7551102741877ddc4bcb23</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="app-servicenow-sase">55e744521b7551102741877ddc4bcb23</sys_scope>
+        <sys_update_name>sys_embedded_help_role_b382dc5a1bb551102741877ddc4bcbc1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-09 16:51:31</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
